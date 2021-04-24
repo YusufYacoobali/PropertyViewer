@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Portfolio
+comment0.text=\n\ A\ portfolio\ is\ a\ collection\ of\ properties.\ It\ reads\ properties\ from\ a\ file\ on\ disk,\n\ and\ it\ can\ be\ used\ to\ retrieve\ single\ properties.\n\ \n\ The\ file\ name\ to\ read\ from\ is\ passed\ in\ at\ construction.\n\ \n\ @author\ Michael\ K\u00F6lling\ and\ Josh\ Murphy\n\ @version\ 1.0\n
+comment1.params=directoryName
+comment1.target=Portfolio(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Portfolio\n
+comment2.params=propertyNumber
+comment2.target=Property\ getProperty(int)
+comment2.text=\n\ Return\ a\ property\ from\ this\ Portfolio.\n
+comment3.params=
+comment3.target=int\ numberOfProperties()
+comment3.text=\n\ Return\ the\ number\ of\ Properties\ in\ this\ Portfolio.\n
+comment4.params=
+comment4.target=java.util.List\ loadProperties()
+comment4.text=\n\ Return\ an\ ArrayList\ containing\ the\ rows\ in\ the\ AirBnB\ London\ data\ set\ csv\ file.\n
+comment5.params=doubleString
+comment5.target=java.lang.Double\ convertDouble(java.lang.String)
+comment5.text=\n\n\ @param\ doubleString\ the\ string\ to\ be\ converted\ to\ Double\ type\n\ @return\ the\ Double\ value\ of\ the\ string,\ or\ -1.0\ if\ the\ string\ is\ \n\ either\ empty\ or\ just\ whitespace\n
+comment6.params=intString
+comment6.target=java.lang.Integer\ convertInt(java.lang.String)
+comment6.text=\n\n\ @param\ intString\ the\ string\ to\ be\ converted\ to\ Integer\ type\n\ @return\ the\ Integer\ value\ of\ the\ string,\ or\ -1\ if\ the\ string\ is\ \n\ either\ empty\ or\ just\ whitespace\n
+numComments=7

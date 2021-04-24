@@ -1,0 +1,36 @@
+Class documentation
+<---- javadoc command: ---->
+/private/var/folders/pb/g2m7y1m118jdp6ymj2gjg7z80000gp/T/AppTranslocation/48847DD5-EFE5-4C82-84DC-760DFDB8935A/d/BlueJ.app/Contents/JDK/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+/private/var/folders/pb/g2m7y1m118jdp6ymj2gjg7z80000gp/T/AppTranslocation/48847DD5-EFE5-4C82-84DC-760DFDB8935A/d/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/private/var/folders/pb/g2m7y1m118jdp6ymj2gjg7z80000gp/T/AppTranslocation/48847DD5-EFE5-4C82-84DC-760DFDB8935A/d/BlueJ.app/Contents/Resources/Java/junit-4.11.jar:/private/var/folders/pb/g2m7y1m118jdp6ymj2gjg7z80000gp/T/AppTranslocation/48847DD5-EFE5-4C82-84DC-760DFDB8935A/d/BlueJ.app/Contents/Resources/Java/hamcrest-core-1.3.jar:/private/var/folders/pb/g2m7y1m118jdp6ymj2gjg7z80000gp/T/AppTranslocation/48847DD5-EFE5-4C82-84DC-760DFDB8935A/d/BlueJ.app/Contents/Resources/Java/lang-stride.jar:/private/var/folders/pb/g2m7y1m118jdp6ymj2gjg7z80000gp/T/AppTranslocation/48847DD5-EFE5-4C82-84DC-760DFDB8935A/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.base.jar:/private/var/folders/pb/g2m7y1m118jdp6ymj2gjg7z80000gp/T/AppTranslocation/48847DD5-EFE5-4C82-84DC-760DFDB8935A/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.controls.jar:/private/var/folders/pb/g2m7y1m118jdp6ymj2gjg7z80000gp/T/AppTranslocation/48847DD5-EFE5-4C82-84DC-760DFDB8935A/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.fxml.jar:/private/var/folders/pb/g2m7y1m118jdp6ymj2gjg7z80000gp/T/AppTranslocation/48847DD5-EFE5-4C82-84DC-760DFDB8935A/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.graphics.jar:/private/var/folders/pb/g2m7y1m118jdp6ymj2gjg7z80000gp/T/AppTranslocation/48847DD5-EFE5-4C82-84DC-760DFDB8935A/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.media.jar:/private/var/folders/pb/g2m7y1m118jdp6ymj2gjg7z80000gp/T/AppTranslocation/48847DD5-EFE5-4C82-84DC-760DFDB8935A/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.properties.jar:/private/var/folders/pb/g2m7y1m118jdp6ymj2gjg7z80000gp/T/AppTranslocation/48847DD5-EFE5-4C82-84DC-760DFDB8935A/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.swing.jar:/private/var/folders/pb/g2m7y1m118jdp6ymj2gjg7z80000gp/T/AppTranslocation/48847DD5-EFE5-4C82-84DC-760DFDB8935A/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.web.jar:/Users/YYACOOBALI/Downloads/cw1-base/+libs/opencsv-4.1.jar:/Users/YYACOOBALI/Downloads/cw1-base/+libs/commons-lang3-3.7.jar:/Users/YYACOOBALI/Downloads/cw1-base/+libs/commons-text-1.2.jar:/Users/YYACOOBALI/Downloads/cw1-base
+-d
+/Users/YYACOOBALI/Downloads/cw1-base/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+/Users/YYACOOBALI/Downloads/cw1-base/PropertyViewer.java
+<---- end of javadoc command ---->
+Loading source file /Users/YYACOOBALI/Downloads/cw1-base/PropertyViewer.java...
+Constructing Javadoc information...
+Standard Doclet version 11.0.2
+Building tree for all the packages and classes...
+Generating /Users/YYACOOBALI/Downloads/cw1-base/doc/PropertyViewer.html...
+Generating /Users/YYACOOBALI/Downloads/cw1-base/doc/package-summary.html...
+Generating /Users/YYACOOBALI/Downloads/cw1-base/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /Users/YYACOOBALI/Downloads/cw1-base/doc/allclasses.html...
+Generating /Users/YYACOOBALI/Downloads/cw1-base/doc/allclasses.html...
+Generating /Users/YYACOOBALI/Downloads/cw1-base/doc/index.html...
